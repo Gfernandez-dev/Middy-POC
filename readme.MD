@@ -1,6 +1,6 @@
 # MIDDY API
 
-This repository is a prove of concept of my post on  [Creating Serverless Application effortlessly with Middy Js](https://slides.com/guillermofernandez-1/middy-example#/) where i develop a serverless application  using [middy](https://middy.js.org/) and its benefits
+This repository is a prove of concept of my post on  [Creating Serverless Application with Middy Js](https://slides.com/guillermofernandez-1/middy-example#/) where i develop a serverless application  using [middy](https://middy.js.org/) and its benefits
  
 
 In this project i use:
