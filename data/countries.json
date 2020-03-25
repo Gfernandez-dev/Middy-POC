@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "Argentina",
+    "infected": 280
+  }, {
+    "id": 2,
+    "name": "EEUU",
+    "infected": 945
+  }, {
+    "id": 3,
+    "name": "Brasil",
+    "infected": 200
+  }, {
+    "id": 4,
+    "name": "India",
+    "infected": 900
+  }, {
+    "id": 5,
+    "name": "Ecuador",
+    "infected": 5
+  }]
